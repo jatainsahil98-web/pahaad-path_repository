@@ -12,31 +12,31 @@
    "year": 2010,
    "events": 42,
    "engine_pod_caution": 0.6904761904761905,
-   "v6_pod_caution": 0.6666666666666666
+   "v6_pod_caution": 0.7142857142857143
   },
   {
    "year": 2011,
    "events": 10,
    "engine_pod_caution": 0.0,
-   "v6_pod_caution": 0.1
+   "v6_pod_caution": 0.0
   },
   {
    "year": 2012,
    "events": 11,
    "engine_pod_caution": 0.09090909090909091,
-   "v6_pod_caution": 0.0
+   "v6_pod_caution": 0.45454545454545453
   },
   {
    "year": 2013,
    "events": 45,
    "engine_pod_caution": 0.26666666666666666,
-   "v6_pod_caution": 0.26666666666666666
+   "v6_pod_caution": 0.6
   },
   {
    "year": 2015,
    "events": 18,
    "engine_pod_caution": 0.1111111111111111,
-   "v6_pod_caution": 0.0
+   "v6_pod_caution": 0.5555555555555556
   }
  ],
  "sources": {
@@ -57,15 +57,15 @@
  },
  "v6": {
   "caution": {
-   "pod": 0.3253968253968254,
-   "alarm_rate": 0.1173049323967067
+   "pod": 0.5714285714285714,
+   "alarm_rate": 0.3728378276304857
   },
   "avoid": {
-   "pod": 0.23015873015873015,
-   "alarm_rate": 0.0410907168215122
+   "pod": 0.15079365079365079,
+   "alarm_rate": 0.1380013596193066
   },
-  "pod_at_10pct": 0.29365079365079366,
-  "pod_at_25pct": 0.4603174603174603
+  "pod_at_10pct": 0.11904761904761904,
+  "pod_at_25pct": 0.3333333333333333
  },
  "v6_ok": false,
  "v6_features": [
@@ -74,6 +74,14 @@
   "log_a7",
   "log_a30",
   "slope",
-  "log_hist"
+  "log_hist",
+  "gsi_mean",
+  "gsi_high100",
+  "log_gsi_ls1k",
+  "sm0",
+  "sm1",
+  "sm2",
+  "log_i1",
+  "log_i3"
  ]
 }

@@ -7,7 +7,7 @@ Seasons: 2010, 2011, 2012, 2013, 2015. Stretch-days with a reported landslide: 1
 | Method | Caught at Caution | Days flagged Caution | Caught at Avoid | Days flagged Avoid | Caught when 10% of days are flagged | Caught when 25% are flagged |
 |---|---|---|---|---|---|---|
 | Rain threshold engine (Caine, GSI) | 35% | 9% | 17% | 2% | 37% | 69% |
-| Model v6 (trained on 2026 PWD closures) | 33% | 12% | 23% | 4% | 29% | 46% |
+| Model v6 (trained on 2026 PWD closures) | 57% | 37% | 15% | 14% | 12% | 33% |
 
 Model v6 catches fewer than the engine at the same share of days flagged: the app uses the engine.
 
