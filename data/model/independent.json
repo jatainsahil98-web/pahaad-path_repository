@@ -6,31 +6,31 @@
   2013,
   2015
  ],
- "events": 78,
+ "events": 126,
  "per_season": [
   {
    "year": 2010,
-   "events": 13,
-   "engine_pod_caution": 0.5384615384615384,
-   "v6_pod_caution": 0.6153846153846154
+   "events": 42,
+   "engine_pod_caution": 0.6904761904761905,
+   "v6_pod_caution": 0.7380952380952381
   },
   {
    "year": 2011,
-   "events": 3,
+   "events": 10,
    "engine_pod_caution": 0.0,
    "v6_pod_caution": 0.0
   },
   {
    "year": 2012,
-   "events": 8,
-   "engine_pod_caution": 0.125,
-   "v6_pod_caution": 0.5
+   "events": 11,
+   "engine_pod_caution": 0.09090909090909091,
+   "v6_pod_caution": 0.45454545454545453
   },
   {
    "year": 2013,
-   "events": 36,
-   "engine_pod_caution": 0.2777777777777778,
-   "v6_pod_caution": 0.6111111111111112
+   "events": 45,
+   "engine_pod_caution": 0.26666666666666666,
+   "v6_pod_caution": 0.5333333333333333
   },
   {
    "year": 2015,
@@ -41,31 +41,31 @@
  ],
  "sources": {
   "GLC": 94,
-  "COOLR": 0
+  "COOLR": 156
  },
  "engine": {
   "caution": {
-   "pod": 0.2564102564102564,
-   "alarm_rate": 0.09175277099380048
+   "pod": 0.3492063492063492,
+   "alarm_rate": 0.08962157262633129
   },
   "avoid": {
-   "pod": 0.07692307692307693,
-   "alarm_rate": 0.020702611309411985
+   "pod": 0.16666666666666666,
+   "alarm_rate": 0.019487876727849535
   },
-  "pod_at_10pct": 0.28205128205128205,
-  "pod_at_25pct": 0.6153846153846154
+  "pod_at_10pct": 0.36507936507936506,
+  "pod_at_25pct": 0.6904761904761905
  },
  "v6": {
   "caution": {
-   "pod": 0.5641025641025641,
-   "alarm_rate": 0.3532594401653203
+   "pod": 0.5555555555555556,
+   "alarm_rate": 0.3521791676108467
   },
   "avoid": {
-   "pod": 0.10256410256410256,
-   "alarm_rate": 0.07732481683261319
+   "pod": 0.10317460317460317,
+   "alarm_rate": 0.07708286124329632
   },
-  "pod_at_10pct": 0.11538461538461539,
-  "pod_at_25pct": 0.34615384615384615
+  "pod_at_10pct": 0.12698412698412698,
+  "pod_at_25pct": 0.35714285714285715
  },
  "v6_ok": false,
  "v6_features": [
